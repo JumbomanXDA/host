@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Wed Sep  8 14:04:08 IST 2021
+# Build Date = Sat Sep 11 09:21:57 IST 2021
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -317,6 +317,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.ergadx.com
 0.0.0.0 cdn.feathr.co
 0.0.0.0 cdn.geni.us
+0.0.0.0 cdn.gravitec.net
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 cdn.imgwzzmb.net
 0.0.0.0 cdn.imhd.io
@@ -358,6 +359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.sophi.io
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 cdn.stat-track.com
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 cdn.subscribers.com
 0.0.0.0 cdn.switchadhub.com
@@ -529,6 +531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eum.instana.io
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 evbk.gamooga.com
+0.0.0.0 event.csdn.net
 0.0.0.0 eventapi.libring.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.appsflyer.com
@@ -552,6 +555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fqtag.com
 0.0.0.0 free-hit-counters.net
+0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 fresnel.vimeocdn.com
 0.0.0.0 front.optimonk.com
 0.0.0.0 fsnecommerce.sc.omtrdc.net
@@ -599,6 +603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 googletagservices.com
 0.0.0.0 gostream.disqus.com
 0.0.0.0 graftpool.ovh
+0.0.0.0 gsp0.baidu.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 gurgle.extremetech.com
 0.0.0.0 gurgle.zdbb.net
@@ -718,11 +723,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 kiwisearchservices.com
 0.0.0.0 klkstrm.kargo.com
 0.0.0.0 knotch-cdn.com
+0.0.0.0 koi-3qnorpf91s.marketingautomation.services
 0.0.0.0 kooguo.cn
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 l.ffx.io
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 lg3.media.net
 0.0.0.0 license.theoplayer.com
 0.0.0.0 licensebuttons.net
 0.0.0.0 licensing.theoplayer.com
@@ -814,6 +821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 notix.io
 0.0.0.0 npttech.com
 0.0.0.0 nr.taboola.com
+0.0.0.0 o120089.ingest.sentry.io
 0.0.0.0 o128185.ingest.sentry.io
 0.0.0.0 o516432.ingest.sentry.io
 0.0.0.0 oackoubs.com
@@ -1038,6 +1046,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sherv.net
 0.0.0.0 shopify.privy.com
 0.0.0.0 siemens.sc.omtrdc.net
+0.0.0.0 silkroad.csdn.net
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 sin.creativecdn.com
 0.0.0.0 siteassets.parastorage.com
@@ -1308,3 +1317,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 zndikywqsjiuwn0q5-nlmenterprise.siteintercept.qualtrics.com
 0.0.0.0 zndpq7uw2elr2st9z-forbesbi.siteintercept.qualtrics.com
 0.0.0.0 zomato-zomato.gw-dv.net
+
