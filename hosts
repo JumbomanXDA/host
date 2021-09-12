@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Sat Sep 11 09:21:57 IST 2021
+# Build Date = Sun Sep 12 20:29:07 IST 2021
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -47,6 +47,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aax-eu.amazon.in
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 ab-machine.forbes.com
 0.0.0.0 abhorboring.com
@@ -139,6 +140,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.condenast.io
 0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.eu-west-1.aiv-delivery.net
+0.0.0.0 api.figshare.com
 0.0.0.0 api.flat-ads.com
 0.0.0.0 api.flattr.com
 0.0.0.0 api.gallery.intl.miui.com
@@ -269,6 +271,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.evidon.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.lytics.io
+0.0.0.0 c.p2r14.com
 0.0.0.0 c.sf-syn.com
 0.0.0.0 c.us.webengage.com
 0.0.0.0 c.webengage.com
@@ -334,6 +337,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.notifyvisitors.com
+0.0.0.0 cdn.omnivirt.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
@@ -349,6 +353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn.pushbird.com
 0.0.0.0 cdn.pushowl.com
+0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cdn.rebel.ai
 0.0.0.0 cdn.recognified.net
 0.0.0.0 cdn.rudderlabs.com
@@ -412,6 +417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cnt.tyxo.bg
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 collect.media.jio.com
+0.0.0.0 collect.tealiumiq.com
 0.0.0.0 collector-px8fcgygk4.px-cloud.net
 0.0.0.0 collector-pxgnttli3a.px-cloud.net
 0.0.0.0 collector-pxikkul2rm.px-cdn.net
@@ -794,6 +800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 movip.wps.com
 0.0.0.0 mps.cnbc.com
+0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 msdk-files.webengage.com
@@ -986,6 +993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s6.cnzz.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 saa.cnet.com
 0.0.0.0 saa.gamespot.com
 0.0.0.0 saa.techrepublic.com
 0.0.0.0 saa.zdnet.com
@@ -993,6 +1001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sage.msgfocus.com
 0.0.0.0 sample-api-v2.crazyegg.com
 0.0.0.0 saxp.zedo.com
+0.0.0.0 sb-scorecardresearch-com.cdn.ampproject.org
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sc-static.net
 0.0.0.0 scmp.onelink.me
@@ -1151,6 +1160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagging5-noneu.truecaller.com
+0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.expo9.exponential.com
@@ -1253,6 +1263,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 widget.gleamjs.io
 0.0.0.0 widget.manychat.com
 0.0.0.0 widget.trustpilot.com
+0.0.0.0 widgets.figshare.com
 0.0.0.0 widgets.in.webengage.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
