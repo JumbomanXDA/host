@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Sun Sep 12 20:29:07 IST 2021
+# Build Date = Tue Sep 14 08:39:15 IST 2021
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -321,6 +321,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.feathr.co
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.gravitec.net
+0.0.0.0 cdn.hubvisor.io
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 cdn.imgwzzmb.net
 0.0.0.0 cdn.imhd.io
@@ -1156,6 +1157,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 taboola-supply-partners.tremorhub.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.crsspxl.com
+0.0.0.0 tag.escalated.io
 0.0.0.0 tag.getdrip.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagger.ope.scmp.com
@@ -1251,6 +1253,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 web-analytics.smile.io
 0.0.0.0 web-sdk-cdn.singular.net
 0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 webed.dm-event.net
 0.0.0.0 weblog.coupang.com
 0.0.0.0 webmd.demdex.net
 0.0.0.0 webmdcom.tt.omtrdc.net
