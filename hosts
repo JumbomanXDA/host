@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Tue Sep 14 08:39:15 IST 2021
+# Build Date = Thu Sep 16 07:49:48 IST 2021
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -361,6 +361,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.sendpulse.com
+0.0.0.0 cdn.shareaholic.net
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.sophi.io
@@ -488,6 +489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.unacademy.com
 0.0.0.0 datadoghq-browser-agent.com
+0.0.0.0 datumapi-appusagetracking-1294972647.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 dcpub.cuberoot.co
 0.0.0.0 de521978b0ef0a196d1db4585aaf6c1c.safeframe.googlesyndication.com
@@ -551,6 +553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 explore.mathworks.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 fairfaxmedia.gscontxt.net
+0.0.0.0 fast.appcues.com
 0.0.0.0 fast.forbes.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 felix.data.tm-awx.com
@@ -656,6 +659,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imagecache.crowdynews.com
 0.0.0.0 images.taboola.com
 0.0.0.0 img.en25.com
+0.0.0.0 img06.en25.com
 0.0.0.0 imgak.mmtcdn.com
 0.0.0.0 imgk.timesnownews.com
 0.0.0.0 imp.startappservice.com
@@ -693,6 +697,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipapi.co
 0.0.0.0 ipinfo.io
 0.0.0.0 iplocation.zoho.com
+0.0.0.0 iwanttodeliver.com
 0.0.0.0 j.wfcdn.de
 0.0.0.0 jcpnv.jio.com
 0.0.0.0 jep-asset.akamaized.net
@@ -834,6 +839,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 o516432.ingest.sentry.io
 0.0.0.0 oackoubs.com
 0.0.0.0 oadsouzi.net
+0.0.0.0 ob.cheqzone.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 oms.dowjoneson.com
@@ -929,6 +935,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 q.quora.com
 0.0.0.0 qsearch-a.akamaihd.net
 0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 quantserve.com
 0.0.0.0 query.fqtag.com
 0.0.0.0 queryly.com
 0.0.0.0 r.skimresources.com
@@ -1033,6 +1040,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdktm.w.inmobi.com
 0.0.0.0 seal.digicert.com
+0.0.0.0 seal.godaddy.com
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.quantserve.com
@@ -1241,6 +1249,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vbtrax.com
 0.0.0.0 venetrigni.com
+0.0.0.0 via.batch.com
 0.0.0.0 vispri.d2.sc.omtrdc.net
 0.0.0.0 vls.adsparc.com
 0.0.0.0 vmg-useast.gscontxt.net
@@ -1323,6 +1332,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-na.associates-amazon.com
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zergnet.com
 0.0.0.0 zn01euaoadiidmxkg-redventures.siteintercept.qualtrics.com
 0.0.0.0 zn3aphtrmui7fnkwh-redventures.siteintercept.qualtrics.com
 0.0.0.0 zn4vpvdr1xnmfablp-vistaprint.siteintercept.qualtrics.com
