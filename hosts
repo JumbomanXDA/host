@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Thu Sep 16 07:49:48 IST 2021
+# Build Date = Fri Sep 17 12:52:58 IST 2021
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -101,6 +101,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 alb.reddit.com
 0.0.0.0 alerts.ndtv.com
 0.0.0.0 alive.github.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog.umengcloud.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 amp.onetrust.mgr.consensu.org
@@ -836,6 +838,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nr.taboola.com
 0.0.0.0 o120089.ingest.sentry.io
 0.0.0.0 o128185.ingest.sentry.io
+0.0.0.0 o22381.ingest.sentry.io
 0.0.0.0 o516432.ingest.sentry.io
 0.0.0.0 oackoubs.com
 0.0.0.0 oadsouzi.net
@@ -1334,6 +1337,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z.moatads.com
 0.0.0.0 zergnet.com
 0.0.0.0 zn01euaoadiidmxkg-redventures.siteintercept.qualtrics.com
+0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn3aphtrmui7fnkwh-redventures.siteintercept.qualtrics.com
 0.0.0.0 zn4vpvdr1xnmfablp-vistaprint.siteintercept.qualtrics.com
 0.0.0.0 zn8i9h2v3wcgekbhl-rogers.siteintercept.qualtrics.com
