@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Fri Sep 17 12:52:58 IST 2021
+# Build Date = Sun Sep 19 10:09:10 IST 2021
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -798,6 +798,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.makemytrip.com
+0.0.0.0 metrics.spkt.io
 0.0.0.0 middycdn-a.akamaihd.net
 0.0.0.0 mindbodygreen.refersion.com
 0.0.0.0 ml314.com
@@ -1058,6 +1059,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sentry.flipkart.com
 0.0.0.0 sentry.io
 0.0.0.0 servedbydoceree.doceree.com
+0.0.0.0 server2.123stat.com
 0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 service.hotstar.com
 0.0.0.0 service.seamlessaccess.org
@@ -1110,6 +1112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 stat.moneycontrol.co.in
+0.0.0.0 statcounter.com
 0.0.0.0 static-ite.paytmbank.com
 0.0.0.0 static.127777.com
 0.0.0.0 static.1mov-team.com
@@ -1194,6 +1197,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 timesnow.pushengage.com
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tml.clmbtech.com
+0.0.0.0 tms.fmm.io
 0.0.0.0 to.getnitropack.com
 0.0.0.0 touch.myntra.com
 0.0.0.0 tpc.googlesyndication.com
@@ -1320,6 +1324,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.queryly.com
 0.0.0.0 www.sherv.net
 0.0.0.0 www.stack-sonar.com
+0.0.0.0 www.statcounter.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.tiava.com
 0.0.0.0 www.upsellit.com
