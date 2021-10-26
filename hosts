@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Fri Oct 22 07:18:06 IST 2021
+# Build Date = Tue Oct 26 15:24:59 IST 2021
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -197,6 +197,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apis.quantcast.mgr.consensu.org
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 app-06.engage.jio.com
+0.0.0.0 app-sj06.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
@@ -229,6 +230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets.pixlee.com
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.rbl.ms
+0.0.0.0 assets.vidora.com
 0.0.0.0 assetscdn.pushengage.com
 0.0.0.0 assoc-na.associates-amazon.com
 0.0.0.0 astat.nikkei.com
@@ -356,6 +358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.ergadx.com
 0.0.0.0 cdn.feathr.co
+0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.gravitec.net
 0.0.0.0 cdn.hubvisor.io
@@ -385,6 +388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.otnolatrnup.com
 0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.pagesense.io
+0.0.0.0 cdn.panelbear.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.permutive.app
 0.0.0.0 cdn.permutive.com
@@ -404,6 +408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.sendpulse.com
 0.0.0.0 cdn.shareaholic.net
 0.0.0.0 cdn.siftscience.com
+0.0.0.0 cdn.smntq.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.sophi.io
 0.0.0.0 cdn.speedcurve.com
@@ -502,6 +507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 creative.schjmp.com
 0.0.0.0 crestfallenwall.com
 0.0.0.0 cs.emxdgt.com
+0.0.0.0 cs.mobfox.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csm.cxpublic.com
 0.0.0.0 cssak.mmtcdn.com
@@ -580,6 +586,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dsp-adcreative.mobshark.net
+0.0.0.0 dspnow.ru
 0.0.0.0 dwin1.com
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 e.crashlytics.com
@@ -615,6 +622,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 experience.tinypass.com
 0.0.0.0 explore.mathworks.com
 0.0.0.0 f.convertkit.com
+0.0.0.0 fadewaves.com
 0.0.0.0 fairfaxmedia.gscontxt.net
 0.0.0.0 fast.appcues.com
 0.0.0.0 fast.forbes.com
@@ -779,6 +787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 intg.snapchat.com
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 iodideeyebath.cam
+0.0.0.0 ip255957021.ahcdn.com
 0.0.0.0 ipapi.co
 0.0.0.0 ipinfo.io
 0.0.0.0 iplocation.zoho.com
@@ -894,6 +903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 medicaldialogues-in.cdn.ampproject.org
 0.0.0.0 medicine-careers360-com.cdn.ampproject.org
 0.0.0.0 medtargetsystem.com
+0.0.0.0 medtronicmitgexternalprod.112.2o7.net
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.brightcove.com
@@ -1144,6 +1154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
+0.0.0.0 scripts.affilired.com
 0.0.0.0 scripts.cleverwebserver.com
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 scripts.webcontentassessor.com
@@ -1240,6 +1251,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 sstatic1.histats.com
+0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 stack-sonar.com
 0.0.0.0 stat.moneycontrol.co.in
 0.0.0.0 stat.onlyindianporn.me
@@ -1294,6 +1306,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 surveys-static.survicate.com
 0.0.0.0 sw.wpush.org
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 sync.1rx.io
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync.getpublica.com
 0.0.0.0 sync.search.spotxchange.com
@@ -1484,6 +1497,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.honcode.ch
 0.0.0.0 www.hostingcloud.racing
 0.0.0.0 www.iwanttodeliver.com
+0.0.0.0 www.jqueryscript.net
 0.0.0.0 www.knotch-cdn.com
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.mainadv.com
