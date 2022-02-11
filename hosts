@@ -1,5 +1,5 @@
 #===========A=N=K=U=S=H==============
-# Build Date = Sat Feb  5 14:51:41 IST 2022
+# Build Date = Wed Feb  9 16:45:51 IST 2022
 #=======J=U=M=B=O=M=A=N=X=D=A=======
 
 127.0.0.1 localhost
@@ -21,6 +21,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 17428.engine.mobileapptracking.com
 0.0.0.0 189358.engine.mobileapptracking.com
 0.0.0.0 198.abwhyag.com
+0.0.0.0 2997.yulunanews.name
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 53e1270541f5.cdn4.forter.com
@@ -146,7 +147,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
-0.0.0.0 amp-xhamster-desi.cdn.ampproject.org
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 amp.onetrust.mgr.consensu.org
 0.0.0.0 amp.permutive.com
@@ -286,6 +286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets.rbl.ms
 0.0.0.0 assets.vidora.com
 0.0.0.0 assetscdn.pushengage.com
+0.0.0.0 assisteggs.com
 0.0.0.0 assoc-na.associates-amazon.com
 0.0.0.0 astat.nikkei.com
 0.0.0.0 aswpsdkeu.com
@@ -412,7 +413,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.amplitude.com
-0.0.0.0 cdn.ampproject.org
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.appsflyer.com
@@ -721,7 +721,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dmxleo.dailymotion.com
+0.0.0.0 dominos.sng.link
 0.0.0.0 downloads.mailchimp.com
+0.0.0.0 dpad.adj.st
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 driddleurease.com
@@ -891,7 +893,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hello.ola.app
 0.0.0.0 herald.loginside.co.kr
 0.0.0.0 hgcmnews.pro
-0.0.0.0 hindi-news24online-com.cdn.ampproject.org
 0.0.0.0 hitcounter.ru
 0.0.0.0 hitwebcounter.com
 0.0.0.0 hm.baidu.com
@@ -1083,7 +1084,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lumberjack.razorpay.com
 0.0.0.0 lvs.truehits.in.th
-0.0.0.0 m-timesofindia-com.cdn.ampproject.org
 0.0.0.0 m.addthis.com
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.adnxs.com
@@ -1124,8 +1124,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 media.flixfacts.com
 0.0.0.0 media.vivaclix.com
 0.0.0.0 mediafire-d.openx.net
-0.0.0.0 medicaldialogues-in.cdn.ampproject.org
-0.0.0.0 medicine-careers360-com.cdn.ampproject.org
 0.0.0.0 medtargetsystem.com
 0.0.0.0 medtronicmitgexternalprod.112.2o7.net
 0.0.0.0 meter-svc.nytimes.com
@@ -1229,6 +1227,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.cpx.to
 0.0.0.0 p.imgur.com
 0.0.0.0 p.typekit.net
+0.0.0.0 p.webengage.com
 0.0.0.0 p1.zemanta.com
 0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 p2.fwpixel.com
@@ -1428,7 +1427,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sample-api-v2.crazyegg.com
 0.0.0.0 sapi.wynk.in
 0.0.0.0 saxp.zedo.com
-0.0.0.0 sb-scorecardresearch-com.cdn.ampproject.org
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sc-static.net
 0.0.0.0 scmp.onelink.me
@@ -1564,7 +1562,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stat.moneycontrol.co.in
 0.0.0.0 stat.onlyindianporn.me
 0.0.0.0 statcounter.com
-0.0.0.0 static-addtoany-com.cdn.ampproject.org
 0.0.0.0 static-ite.paytmbank.com
 0.0.0.0 static.127777.com
 0.0.0.0 static.1mov-team.com
@@ -1650,6 +1647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tag.hockeycurve.com
 0.0.0.0 tag.tapad.com
 0.0.0.0 tag.wknd.ai
+0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagging5-noneu.truecaller.com
@@ -1696,11 +1694,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.dailyhunt.in
 0.0.0.0 track.gaconnector.com
 0.0.0.0 track.gotprofits.com
+0.0.0.0 track.mobsuitem.com
 0.0.0.0 track.omguk.com
 0.0.0.0 track.shiksha.com
 0.0.0.0 trackcmp.net
 0.0.0.0 tracker.arc.io
 0.0.0.0 tracker.gaconnector.com
+0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.wigzopush.com
 0.0.0.0 trackifyx.redretarget.com
 0.0.0.0 tracking.19mobigroup.com
@@ -1835,13 +1835,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 ww4.siteplug.com
-0.0.0.0 www-careers360-com.cdn.ampproject.org
-0.0.0.0 www-collinsdictionary-com.cdn.ampproject.org
-0.0.0.0 www-dqindia-com.cdn.ampproject.org
-0.0.0.0 www-ixigo-com.cdn.ampproject.org
-0.0.0.0 www-pinterest-com.cdn.ampproject.org
-0.0.0.0 www-questionpro-com.cdn.ampproject.org
-0.0.0.0 www-yatra-com.cdn.ampproject.org
 0.0.0.0 www.addtoany.com
 0.0.0.0 www.affiliatly.com
 0.0.0.0 www.anrdoezrs.net
